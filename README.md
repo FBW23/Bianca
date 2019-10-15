@@ -33,3 +33,4 @@ Anchors:
 | Nickname  | Ali    | SpongeBob | Cal | 
 | Phone | 12345 | 67890 | 09876 |
 | Hometown | Bs As | RJ | Toronto |
+|Flags |:argentina:|:brazil:|:canada:|
