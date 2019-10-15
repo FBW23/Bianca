@@ -31,4 +31,5 @@ Anchors:
 | Real Name | Alice | Bob | Carl | 
 | - | - | - | - |
 | Nickname  | Ali    | SpongeBob | Cal | 
-| Age | 20 | 23 | 76 |
+| Phone | 12345 | 67890 | 09876 |
+| Hometown | Bs As | RJ | Toronto |
