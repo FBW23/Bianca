@@ -25,3 +25,10 @@ Anchors:
 - [ ] buying
 - [x] cooking
 - [ ] eating
+
+# Table
+
+| Real Name | Alice | Bob | Carl | 
+| - | - | - | - |
+| Nickname  | Ali    | SpongeBob | Cal | 
+| Age | 20 | 23 | 76 |
