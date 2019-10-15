@@ -5,5 +5,14 @@ Hello, world.
 
 www.google.com 
 
-Internal Links
-[Bianca](../../../julien)
+
+[Julien](../../../julien)
+
+
+
+# Anchors in Markdown
+Anchors: 
+
+[Link to an Anchor](#anchors-in-markdown)
+
+![Image](baleia.jpg)"Baleias"
