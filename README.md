@@ -3,10 +3,10 @@
 
 Hello, world.
 
-www.google.com 
+[Google](www.google.com) 
 
 
-[Julien](../../../julien)
+[Julien's Link](../../../julien)
 
 
 
@@ -15,4 +15,4 @@ Anchors:
 
 [Link to an Anchor](#anchors-in-markdown)
 
-![Image](baleia.jpg)"Baleias"
+![Image](images/baleia.jpg)
